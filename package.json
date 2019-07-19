@@ -1,6 +1,6 @@
 {
   "name": "esy-libsodium",
-  "version": "7.65.2001",
+  "version": "1.0.1801",
   "description": "libsodium packaged for esy",
   "esy": {
     "buildsInSource": true,
